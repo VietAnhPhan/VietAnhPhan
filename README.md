@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Full-stack Developer with 2+ years of experience building scalable web applications and RESTful APIs.
+Strong in React, Node.js, PostgreSQL, WordPress development, and cloud deployment (Heroku,
+Supabase). Experienced working with Japanese clients and international teams. Seeking developer
+opportunities in Korea.
 <!--
 **VietAnhPhan/VietAnhPhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
