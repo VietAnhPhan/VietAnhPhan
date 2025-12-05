@@ -5,7 +5,7 @@ Supabase). Experienced working with Japanese clients and international teams. Ac
 
 My portfolio website: https://vietanhdeveloper.netlify.app/
 
-Gotoplaces: https://gotoplaces.netlify.app/
+Gotoplaces (personal project): https://gotoplaces.netlify.app/
 <!--
 **VietAnhPhan/VietAnhPhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
