@@ -5,6 +5,9 @@ Strong in React, Node.js, PostgreSQL, problem-solving. Experienced working with 
 My portfolio website: https://vietanhdeveloper.netlify.app/
 
 Social Media Web app (personal project): https://social-media-2025.netlify.app/
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6955fd4caec1bfa6b4feae53?variant=dark)](https://roadmap.sh)
+
 <!--
 **VietAnhPhan/VietAnhPhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
